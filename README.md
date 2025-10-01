@@ -7,7 +7,7 @@ Welcome! This guide will walk you through every step needed to get the ultimate 
 1.  Go to the main page of this GitHub repository.
 2.  Click the green **`< > Code`** button near the top.
 3.  In the dropdown menu, click **`Download ZIP`**.
-4.  Find the downloaded ZIP file (usually in your `Downloads` folder) and **unzip it**. You can right-click it and select "Extract All...". This will create a folder named something like `Marvel-Rivals-Tracker-main`.
+4.  Find the downloaded ZIP file (usually in your `Downloads` folder) and **unzip it**. You can right-click it and select "Extract All...". This will create a folder named something like `Marvel-Rivals-Ult-Tracker-main`.
 
 ### **Step 2: Install Python**
 
@@ -23,7 +23,7 @@ If you don't have Python, you'll need to install it.
 
 1.  Press the **Windows Key** and type `cmd`, then press Enter. This will open the Command Prompt.
 2.  Now, we need to tell the Command Prompt to look inside the project folder you unzipped. Type `cd` followed by a space.
-3.  Drag the project folder from your File Explorer and drop it directly into the Command Prompt window. It will paste the full path. Your command should look something like this: `cd C:\Users\YourName\Downloads\Marvel-Rivals-Tracker-main`
+3.  Drag the project folder from your File Explorer and drop it directly into the Command Prompt window. It will paste the full path. Your command should look something like this: `cd C:\Users\YourName\Downloads\Marvel-Rivals-Ult-Tracker-main`
 4.  Press **Enter**.
 5.  Now that you're in the correct folder, copy and paste the following command into the Command Prompt and press **Enter**:
     ```
